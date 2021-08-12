@@ -1,0 +1,93 @@
+.navbar-brand img{
+    width: 25%;
+}
+.lp{
+    background-color:#21B573;
+    border-radius: 25px;
+    cursor: pointer;
+}
+.mr{
+    background-color: #F0FFF0;
+}
+.cll{
+    color: #21B573;
+}
+.lll{
+    font-weight: bold;
+}
+.cat1{
+    margin-top: 50px;
+    margin-left: 25px;
+}
+.card-text{
+    color: #6C6B6B;
+    font-family: Poppins;
+}
+.button-look{
+    color:white;
+    background-color: #21B573;
+    border:none;
+    border-radius: 15px;
+    padding: 8px 40px;
+    margin-top: 20px;
+}
+.button-look1{
+    color:white;
+    background-color: #21B573;
+    border:none;
+    border-radius: 15px;
+    padding: 5px 40px;
+}
+.mlr{
+    margin-top: 25px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.lopp{
+    width:100px;
+    height: 100px;
+    margin: auto;
+    padding: 20px;
+}
+.crs{
+    font-weight: bold;
+    padding: 25px;
+    color:#413960;
+}
+.wl{
+    width: 25px;
+    height: 25px;
+}
+.troy{
+    margin-top: 10px;
+}
+.man-img{
+    width:150px;
+    height: 150px;
+}
+.man-text{
+    margin-top: 40px;
+}
+.bro-look{
+    width: 1440px;
+    height: 369px;
+    background-color: #282531;
+    margin-top: 50px;
+}
+.clls{
+    color:#fff;
+    margin-left: 130px;
+}
+.clls1{
+    color:#fff;
+    font-weight: bold;
+    margin-top: 150px;
+}
+.footer p{
+    color:#fff;
+    text-align: center;
+    background-color: #282531;
+}
